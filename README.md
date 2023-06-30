@@ -1,11 +1,11 @@
-About r-denoiser
-================
+About r-denoiser-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-denoiser-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=denoiseR
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-denoiser-feedstock/blob/main/LICENSE.txt)
 
 Summary: Estimate a low rank matrix from noisy data using singular values thresholding and shrinking functions. Impute missing values with matrix completion. The method is described in <arXiv:1602.01206>.
 
